@@ -1,1 +1,2 @@
 # CAWAPR
+I am proud to be part of the Java coding session. it would be a wonderfull opportunity to learn and develope websites as well as collobarate with developers on GitHub. Nothing is as interesting as changing carears
